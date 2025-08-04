@@ -117,8 +117,8 @@ export const INNOVATION_TOOLS = [
 
 // Social Media Links
 export const SOCIAL_LINKS = [
-  { platform: "Twitter", url: "https://twitter.com/competex" },
-  { platform: "LinkedIn", url: "https://linkedin.com/company/competex" },
-  { platform: "Instagram", url: "https://instagram.com/competex" },
-  { platform: "GitHub", url: "https://github.com/competex" }
+  { platform: "Twitter", url: "https://twitter.com" },
+  { platform: "LinkedIn", url: "https://linkedin.com" },
+  { platform: "Instagram", url: "https://instagram.com" },
+  { platform: "GitHub", url: "https://github.com" }
 ] 
